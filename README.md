@@ -7,11 +7,11 @@ Este repositorio contiene el desarrollo completo del Trabajo de Fin de Grado tit
 
 ##  Estructura del repositorio
 
-- `mComparacionmodelos.ipynb`: Notebook principal que integra todo el flujo del proyecto, desde la carga de datos hasta la comparativa de modelos.
-- `modelo_regresion_logistica.ipynb`: Entrenamiento y evaluación del modelo Regresión Logística.
-- `modelo_arbol_de_decisión.ipynb`: Entrenamiento y evaluación del modelo Árbol de Decisión.
-- `modelo_random_forest.ipynb`: Entrenamiento y evaluación del modelo Random Forest.
-- `modelo_xgboost.ipynb`: Entrenamiento y evaluación del modelo XGBoost.
+- `Comparacionmodelos.ipynb`: Notebook principal que integra todo el flujo del proyecto, desde la carga de datos hasta la comparativa de modelos.
+- `regresionlogistica.ipynb`: Entrenamiento y evaluación del modelo Regresión Logística.
+- `arboldedecisión.ipynb`: Entrenamiento y evaluación del modelo Árbol de Decisión.
+- `RandomForest.ipynb`: Entrenamiento y evaluación del modelo Random Forest.
+- `XGBoost.ipynb`: Entrenamiento y evaluación del modelo XGBoost.
 
 
 ## ⚙ Requisitos
